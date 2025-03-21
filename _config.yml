@@ -22,8 +22,8 @@ repository               : "danteandrinolo/danteandrinolo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Dante"
+  avatar           : "profile.jpg"
+  name             : "Dante Andrinolo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at USC"
   location         : "Los Angeles"
