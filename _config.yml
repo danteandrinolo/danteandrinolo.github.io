@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Dante Andrinolo's Personal Page"
 title_separator          : "-"
 name                     : &name "Dante Andrinolo"
 description              : &description "This is the personal page of Dante Andrinolo!"
