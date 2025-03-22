@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dante Andrinolo",
+    "email": "dante.andrinolo@ing.unlp.edu.ar",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://danteandrinolo.github.io",
+    "summary": "Currently employed at University of Southern California. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "90007",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": ""
     },
@@ -25,39 +25,30 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "danteandrinolos",
+        "url": "https://github.com/danteandrinolo"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Southern California",
+      "area": "Ph.D in Electrical Engeineering",
+      "studyType": "MRI signal processing",
+      "startDate": "2025",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Universidad Nacional de La Plata",
+      "area": "Telecommunications Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [Functional Analysis, Radar Signal Processing, Digital Signal Processing, Estimation Theory, Advanced Electromagnetism]
     }
   ],
   "skills": [],
