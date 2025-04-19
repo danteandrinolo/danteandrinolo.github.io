@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, University of Southern California (USC), 2025 - Present
+  * Research topic: MRI Signal Processing
+* Telecommunications Engineering (Msc equivalent), Universidad Nacional de La Plata (UNLP), 2019-2024
+  * Undergraduate Thesis: Optimized transcranial electrical stimulation for tumor treating fields.
+
+Research Interests
+======
+* Statistical Signal Processing; Inverse Problems; Medical Imaging; Diffusion Models.
+
+Research experience
+======
+* July 2024: Research Assistant at PES-LEICI-UNLP
+  * National University of La Plata
+  * I am currently working in an extended version of my undergraduate thesis work, using a more complex head and electrode models. This work is intended to be submitted for publishing.
+  * Advisor: Dr. Mariano Fernández-Corazza and Dr. Carlos H. Muravchik.
+
+* November 2022 - February 2024: Optimized tES for TTFields (Undergraduate thesis)
+  * National University of La Plata
+  * Worked in Optimal Transcranial Electrical Stimulation (tES) for Tumoral Treating in order to complete my thesis work. I published part of the work in a Conference paper as first author.
+  * Advisor: Dr. Mariano Fernández-Corazza and Dr. Carlos H. Muravchik.
+
+* August 2023 - February 2024: Reflectometry Signal Processing for Galileo signals (Capstone project)
+  * National University of La Plata
+  * Duties included: Worked on a GNSS signal processing project as part of a university cubesat development project. The results achieved in this work were published (first author) in a conference paper. Also, this work was presented at GCURS sessions at Rice University.
+  * Advisor: Dr. Santiago Ozafrain.
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+====== 
+* September 2023 - December 2023 Supervised Professional Practice
+  * INVAP (Remote)
+  * I developed an algorithm to maximize the minimum blind velocity in a pulsed radar based on PRF multiple selection.
+  * Supervisor: Dr. Martin Hurtado.
 
 Publications
 ======
@@ -59,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Relevant Graduate courses
 ======
-* Currently signed in to 43 different slack teams
+* Parameters and States Estimation; Introduction to Functional Analysis and Applications; Introduction to Radar Signal Processing; Electromagnetism (for Physicists); Digital Signal Processing;
