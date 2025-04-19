@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "dante.a_sw"
+  instagram        : #"dante.a_sw"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articlesss'    
   conferences:
     title: 'Conference Papers'
 
