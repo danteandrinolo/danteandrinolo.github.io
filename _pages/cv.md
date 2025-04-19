@@ -56,13 +56,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
  
-{% comment %}  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+ {% <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-{% endcomment %}  
+  {% endfor %}</ul>%}
+
 Relevant Graduate courses
 ======
 * Parameters and States Estimation; Introduction to Functional Analysis and Applications; Introduction to Radar Signal Processing; Electromagnetism (for Physicists); Digital Signal Processing;
