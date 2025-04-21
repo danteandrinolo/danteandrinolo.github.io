@@ -14,7 +14,7 @@ Basin Events from CYGNSS.&quot; <i>2024 IEEE Biennial Congress of Argentina (ARG
 de los Arroyos, Argentina, 2024, pp. 1-7.'
 ---
 
-Abstract—Global Navigation Satellite Systems (GNSS) are
+Abstract: Global Navigation Satellite Systems (GNSS) are
 designed to provide precise positioning, velocity, and timing information
 through satellite constellations. These satellites transmit
 signals to GNSS receivers to determine location parameters.
