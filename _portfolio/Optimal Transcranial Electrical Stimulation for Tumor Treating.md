@@ -1,6 +1,6 @@
 ---
 title: "Optimal Transcranial Electrical Stimulation for Tumor Treating"
-excerpt: "I worked on this project during 2023 while conducting research for my undergraduate thesis. In this work I studied the transcranial electrical stimulation inverse problem, and then developed and applied several of those methods to improve a brain tumor treating technique that uses Electric fields to treat glioblastomas multiformes. Then, I estimated the improvement by defining the probability of death of the cancerous brain cells based in a couple of papers. <br/><img src='/images/BrainTTFieldsPortfolio.jpg'>"
+excerpt: "I worked on this project during 2023 while conducting research for my undergraduate thesis. In this work I studied the transcranial electrical stimulation inverse problem, and then developed and applied several of those methods to improve a brain tumor treating technique that uses Electric fields to treat glioblastomas multiformes. Then, I estimated the improvement by defining the probability of death of the cancerous brain cells based in a couple of papers. <br/><img src='/images/BrainTTFieldsPortfolio.jpeg'>"
 collection: portfolio
 ---
 
