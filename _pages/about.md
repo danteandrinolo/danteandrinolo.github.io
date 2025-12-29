@@ -11,4 +11,4 @@ Hi! My name is Dante Andrinolo, I am a PhD Student at University of Southern Cal
 
 Outside academy, I am intersted in coffee, Reading and Calisthenics.
 
-If you want to talk about anything you could thing would be cool to chat, send me an email! andrinol at usc.edu
+If you want to talk about anything you think it would be cool to chat, send me an email! andrinol at usc.edu
