@@ -1,14 +1,44 @@
----
+\---
+
+layout: about
+title: about
 permalink: /
-title: "Dante Andrinolo's Personal Page"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>EE Ph.D. Student at Signal and Image Processing Institute USC</a>.
+
+profile:
+align: left
+image: prof\_pic.jpg
+image\_circular: true # crops the image to make it circular
+more\_info: >
+<p>555 your office number</p>
+<p>123 your address street</p>
+<p>Your City, State 12345</p>
+
+selected\_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+enabled: true # includes a list of news items
+scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+limit: 5 # leave blank to include all the news in the `\_news` folder
+
+latest\_posts:
+enabled: true
+scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Dante Andrinolo, I am a PhD Student at University of Southern California, and my interest lies within the intersection between Signal processing, Probability theory, Inverse problems and Applied Mathematics in General. Currently I am fortunate to be working under the advise of Prof. Justin Haldar in MRI reconstruction inverse problems. Previously I got my undergraduate degree in Telecommunications engineering at National University of La Plata, Argentina. There, I was advised by Dr. M. Fernandez-Corazza and Prof. C. Muravchik to complete my thesis related to inverse problems in transcranial electrica stimulation (see portfolio for more details).
+I am a PhD student in Electrical and Computer Engineering at the University of Southern California. My research interests lie at the intersection of statistical signal processing, inverse problems, probability theory, brain imaging, and medical imaging.
 
-Outside academy, I am intersted in coffee, Reading and Calisthenics.
 
-If you want to talk about anything you think it would be cool to chat, send me an email! andrinol at usc.edu
+
+Currently, I am working on inverse problems in MRI reconstruction.
+
+
+
+Previously, I obtained my undergraduate degree in Telecommunications Engineering from the National University of La Plata, Argentina. My undergraduate thesis focused on optimized transcranial electrical stimulation for glioblastoma treating fields.
+
+
+
+My broader research interests include statistical signal processing, inverse problems, medical imaging, brain imaging, uncertainty quantification, and applied mathematics.
+
