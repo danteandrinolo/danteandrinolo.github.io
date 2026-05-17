@@ -5,6 +5,7 @@ description: Optimization-based transcranial electrical stimulation for glioblas
 img: assets/img/BrainTTFieldsPortfolio.jpeg
 importance: 1
 category: work
+related_publications: false
 ---
 
 I worked on this project during 2023 while conducting research for my undergraduate thesis. I studied the transcranial electrical stimulation inverse problem and developed optimization methods to improve a brain tumor treating technique based on electric fields applied to glioblastomas.
