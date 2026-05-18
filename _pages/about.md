@@ -29,15 +29,8 @@ latest_posts:
 
 I am a PhD student in Electrical and Computer Engineering at the University of Southern California. My research interests lie at the intersection of statistical signal processing, inverse problems, probability theory, brain imaging, and medical imaging.
 
-
-
 Currently, I am working on inverse problems in MRI reconstruction.
-
-
 
 Previously, I obtained my undergraduate degree in Telecommunications Engineering from the National University of La Plata, Argentina. My undergraduate thesis focused on optimized transcranial electrical stimulation for glioblastoma treating fields.
 
-
-
 My broader research interests include statistical signal processing, inverse problems, medical imaging, brain imaging, uncertainty quantification, and applied mathematics.
-
