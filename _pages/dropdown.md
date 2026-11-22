@@ -1,4 +1,5 @@
 ---
+published: false # hidden: template demo content
 layout: page
 title: submenus
 nav: false

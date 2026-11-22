@@ -1,4 +1,5 @@
 ---
+published: false # hidden: template demo content
 layout: page
 permalink: /teaching/
 title: teaching

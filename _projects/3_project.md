@@ -1,4 +1,5 @@
 ---
+published: false # hidden: template demo content
 layout: page
 title: project 3 with very long name
 description: a project that redirects to another website

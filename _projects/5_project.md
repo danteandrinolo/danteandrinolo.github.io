@@ -1,4 +1,5 @@
 ---
+published: false # hidden: template demo content
 layout: page
 title: project 5
 description: a project with a background image

@@ -1,4 +1,5 @@
 ---
+published: false # hidden: template demo content
 layout: book-shelf
 title: bookshelf
 permalink: /books/
