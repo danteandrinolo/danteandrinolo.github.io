@@ -1,16 +1,12 @@
 ---
-published: false # hidden: template demo content
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I have taught as a teaching assistant.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I worked as a teaching assistant in the Telecommunications Engineering program at the National University of La Plata (UNLP), Argentina.
 
 {% include courses.liquid %}

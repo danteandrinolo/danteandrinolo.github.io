@@ -1,0 +1,58 @@
+# Courses I have taken. Shown on the /courses/ page, grouped by institution (in this order).
+# Fields (all optional except name):
+#   name, code, term, grade, description, notes (your own comments), notes_url (link to your notes, e.g. /assets/pdf/my-notes.pdf)
+# TODO (Dante): fill in codes, terms, grades, descriptions and notes. Empty fields are simply not shown.
+
+- institution: University of Southern California (USC)
+  courses:
+    - name: Graduate Probability
+      code:
+      term:
+      grade:
+      description:
+      notes:
+    - name: Digital Signal Processing
+      code:
+      term:
+      grade:
+      description:
+      notes:
+    - name: Computational Tools for Inverse Problems
+      code:
+      term: Spring 2026 # guessed from the CV's "Inverse Problems" course project (Jan - May 2026); fix if wrong
+      grade:
+      description: Course project - formulated and solved the multichannel MRI reconstruction inverse problem using low-rank matrix approximations, Hilbert spaces and vector-valued reproducing kernels.
+      notes:
+    - name: Magnetic Resonance Imaging
+      code:
+      term:
+      grade:
+      description:
+      notes:
+
+- institution: National University of La Plata (UNLP)
+  courses:
+    - name: Parameters and States Estimation (graduate)
+      code:
+      term: Jul - Dec 2024
+      grade:
+      description: Course project - with another student, proved and numerically validated results from several papers on imaging multiple static discrete objects, solving the inverse scattering problem with MLE estimators and the MUSIC algorithm.
+      notes:
+    - name: Introduction to Functional Analysis and Applications
+      code:
+      term:
+      grade:
+      description:
+      notes:
+    - name: Radar Signal Processing
+      code:
+      term:
+      grade:
+      description:
+      notes:
+    - name: Electromagnetism (course for physicists)
+      code:
+      term:
+      grade:
+      description:
+      notes:
