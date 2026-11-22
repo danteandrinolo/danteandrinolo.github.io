@@ -37,4 +37,4 @@ Images: put the file in assets/img/ and use
 
 {% include figure.liquid loading="eager" path="assets/img/your-image.jpg" class="img-fluid rounded z-depth-1" %}
 
-More examples of what posts can do (tables, charts, Jupyter notebooks, citations) are in the al-folio demo posts in _posts/ (they are hidden with published: false).
+More examples of what posts can do (tables, charts, Jupyter notebooks, citations) are in the al-folio demo posts in \_posts/ (they are hidden with published: false).
